@@ -1,0 +1,2 @@
+boto3==1.17.95
+atlassian-python-api==3.11.0
